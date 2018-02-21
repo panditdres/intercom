@@ -11,7 +11,6 @@
 2: cd to root directory of project
 3: npm start (will run gulp and then launch the application)
 4: server located on localhost:9000
-
 ```
 
 ## Build
