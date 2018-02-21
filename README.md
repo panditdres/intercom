@@ -1,7 +1,5 @@
 # Intercom Excerise
 
-====================
-
 ## Install dependencies
 
 - Install `node` and `npm`. 
