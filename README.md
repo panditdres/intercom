@@ -28,3 +28,7 @@
 
 - In order to run the test, run `npm test` from the root directory
 - Provided in the codebase is also a script that will display the customers within 100km from the Dublin office in the terminal through a node commande. Simply go to `server/filter.script.js` and run the file using `node filter.script.js`
+
+## Features
+
+- You can change the distance filter to show the different customers within any distance range
